@@ -1,0 +1,2 @@
+# BAMP
+Master thesis code
